@@ -16,5 +16,4 @@
   break;
   ```
 3. Видим текстовое поле для ввода текста, вводим название элемента, выбираем подходящий. Профит!
-
-![alt text](https://raw.githubusercontent.com/Pum-purum/elementbinding.edit/master/elementbinding.edit/fwp234oerj.jpg)
+<img src="https://raw.githubusercontent.com/Pum-purum/elementbinding.edit/master/elementbinding.edit/fwp234oerj.jpg" width="400" height="200" />
