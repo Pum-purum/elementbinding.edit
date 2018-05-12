@@ -15,3 +15,6 @@
     "CURRENT_ID"  => $arResult["ELEMENT_PROPERTIES"][$propertyID][0]['VALUE']));
   break;
   ```
+3. Видим текстовое поле для ввода текста, вводим название элемента, выбираем подходящий. Профит!
+
+![alt text](https://raw.githubusercontent.com/Pum-purum/elementbinding.edit/master/elementbinding.edit/fwp234oerj.jpg)
